@@ -1,0 +1,13 @@
+C:\Users\Andrey\source\repos\CursedKinItems\bin\Debug\CursedKinItems.dll
+C:\Users\Andrey\source\repos\CursedKinItems\bin\Debug\CursedKinItems.pdb
+C:\Users\Andrey\source\repos\CursedKinItems\bin\Debug\Assembly-CSharp.Base.mm.dll
+C:\Users\Andrey\source\repos\CursedKinItems\bin\Debug\Assembly-CSharp.dll
+C:\Users\Andrey\source\repos\CursedKinItems\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Andrey\source\repos\CursedKinItems\bin\Debug\MonoMod.Utils.dll
+C:\Users\Andrey\source\repos\CursedKinItems\bin\Debug\UnityEngine.CoreModule.Base.mm.dll
+C:\Users\Andrey\source\repos\CursedKinItems\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Andrey\source\repos\CursedKinItems\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Andrey\source\repos\CursedKinItems\obj\Debug\CursedKinItems.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\CursedKinItems\obj\Debug\CursedKinItems.csproj.CopyComplete
+C:\Users\Andrey\source\repos\CursedKinItems\obj\Debug\CursedKinItems.dll
+C:\Users\Andrey\source\repos\CursedKinItems\obj\Debug\CursedKinItems.pdb
